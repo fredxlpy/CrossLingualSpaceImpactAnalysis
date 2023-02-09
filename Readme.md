@@ -1,4 +1,4 @@
-# The Code from The Paper
+# Code from "Exploring the Correlation Between Linguistic Features and Cross-Lingual Transfer in a Multilingual Representation Space"
 * `CKA.py` contains the function to compute the layer similarity using the Centered Kernel Alignment method<sup>*</sup> 
 * `01 - Trainer.py` fine-tunes mBERT on XNLI in different source languages
 * `02 - extract_embeddings.py` allows to compute embeddings at different layers from the base and fine-tuned models using the XNLI test set
